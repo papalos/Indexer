@@ -1,0 +1,6 @@
+C:\Users\sergey\Documents\Visual Studio 2017\Projects\Indexer\Indexer\bin\Debug\Indexer.exe.config
+C:\Users\sergey\Documents\Visual Studio 2017\Projects\Indexer\Indexer\bin\Debug\Indexer.exe
+C:\Users\sergey\Documents\Visual Studio 2017\Projects\Indexer\Indexer\bin\Debug\Indexer.pdb
+C:\Users\sergey\Documents\Visual Studio 2017\Projects\Indexer\Indexer\obj\Debug\Indexer.csprojResolveAssemblyReference.cache
+C:\Users\sergey\Documents\Visual Studio 2017\Projects\Indexer\Indexer\obj\Debug\Indexer.exe
+C:\Users\sergey\Documents\Visual Studio 2017\Projects\Indexer\Indexer\obj\Debug\Indexer.pdb
